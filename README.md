@@ -1,0 +1,1 @@
+### Handy PHP functions that I often use.
